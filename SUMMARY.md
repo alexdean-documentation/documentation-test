@@ -6,4 +6,5 @@
 ## Tools Squad
 
 * [Tools README](tools-squad/tools-readme.md)
+* [TED website](https://www.ted.com)
 
