@@ -6,7 +6,7 @@
 
 ## Hero Squad
 
-* [Hero README](hero/hero-intro.md)
+* [Hero README](hero-squad/hero-intro.md)
 
 ## Tools Squad
 

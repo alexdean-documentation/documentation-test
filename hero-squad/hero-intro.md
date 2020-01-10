@@ -1,11 +1,12 @@
-# Welcome to Hero
+# Hero README
 
 Just testing things out.
 
 ## Stuff about us.
 
-Things.
+Things about heros.
 
 ## Things about us.
 
 Stuff.
+
