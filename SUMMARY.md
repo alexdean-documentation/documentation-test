@@ -2,6 +2,11 @@
 
 * [Initial page](README.md)
 * [Second Page](second-page.md)
+* [Added Page](added.md)
+
+## Hero Squad
+
+* [Hero README](hero/hero-intro.md)
 
 ## Tools Squad
 
